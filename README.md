@@ -11,11 +11,11 @@ How does the water access situation in Maji Ndogo compare to the national and pr
 
  # **Processes**
 Steps taken toward the completion of this project include:
-Cleaning the dataset
-Data transformation in Power Query Editor
-Creating measures using DAX functions
-Data Visualization
-EDA
+- Cleaning the dataset
+- Data transformation in Power Query Editor
+- Creating measures using DAX functions
+- Data Visualization
+- EDA
 
  # **Insights on Water Access in Maji Ndogo**
 
