@@ -8,23 +8,15 @@ What are the main findings and key insights regarding water access in Maji Ndogo
 How many individuals in Maji Ndogo face water access challenges, and what are these challenges?
 What is the estimated budget required to address water access challenges in Maji Ndogo, and how should this budget be allocated?
 How does the water access situation in Maji Ndogo compare to the national and provincial levels, and what insights can be drawn from these comparisons?
-Processes
-Steps taken toward the completion of this project include:
 
+ # **Processes**
+Steps taken toward the completion of this project include:
 Cleaning the dataset
 Data transformation in Power Query Editor
 Creating measures using DAX functions
 Data Visualization
 EDA
-Insights on Water Access in Maji Ndogo
 
-#Processes
-Steps taken toward the completion of this project include:
-
-Cleaning the dataset
-Data transformation in Power Query Editor
-Creating measures using DAX functions
-Data Visualization
-EDA
+ # **Insights on Water Access in Maji Ndogo**
 
 ![Screenshot (375)](https://github.com/MoteneJan/Water_Crisis_Maji_Ndogo/assets/87364508/e15b7253-4747-431a-8f95-086c64db1acc)
