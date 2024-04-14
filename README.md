@@ -17,3 +17,5 @@ Creating measures using DAX functions
 Data Visualization
 EDA
 Insights on Water Access in Maji Ndogo
+
+![Screenshot (375)](https://github.com/MoteneJan/Water_Crisis_Maji_Ndogo/assets/87364508/e15b7253-4747-431a-8f95-086c64db1acc)
